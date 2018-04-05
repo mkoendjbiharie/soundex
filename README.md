@@ -1,7 +1,7 @@
 # Soundex algorithm in C++ for brazilian portuguese
 Soundex algorithm in C++ for brazilian portuguese.
 
-Use the getSoundexBR(string value) function to obtain the soundex value for a portuguese word (parameter value).
+Use the getSoundexBR(string value) function to obtain the soundex value for a portuguese word.
 
 Returns the soundex value of the portuguese word.
 
