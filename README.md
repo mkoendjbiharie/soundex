@@ -1,2 +1,2 @@
 # soundex
-Soundex algorithm in C++
+Soundex algorithm in C++ for brazilian portuguese
