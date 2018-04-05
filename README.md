@@ -5,5 +5,5 @@ Returns the soundex value of the portuguese word.
 
 Example
 ...
-string s=getSoundexBR("Palavra");\n
+string s=getSoundexBR("Palavra");.
 String s will then hold the soundex value for the word "Palavra".
